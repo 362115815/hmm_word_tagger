@@ -1,0 +1,17 @@
+a1a=['.', 'ADJ', 'ADP', 'ADV', 'CONJ', 'DET', 'NOUN', 'NUM', 'PRON', 'PRT', 'VERB', 'X']
+a1b=2649
+a1c=12.059884527547286
+a1d='function'
+a2a=13
+a2b=2.4630442451849275
+a4a3=0.8689827219809665
+a4b1='fixme'
+a4b2='fixme'
+a4b3='fill me in'
+a4c=56.63055628507827
+a4d=310.16310743555863
+a4e=['DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'VERB', 'ADV']
+a5='fill me in'
+a6='fill me in'
+a3c=16.793191282154915
+a3d='s'
